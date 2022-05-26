@@ -1,0 +1,12 @@
+.nav {
+    grid-area: nav;
+    background-color: bisque;
+}
+
+.nav_items {
+    padding: 5px;
+}
+.nav_items:hover {
+    cursor: pointer;
+    background-color: #edeef0;
+}

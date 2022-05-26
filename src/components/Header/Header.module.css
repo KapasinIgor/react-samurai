@@ -1,0 +1,8 @@
+.header {
+    grid-area: header;
+    background-color: darkseagreen;
+}
+.header_logo {
+    height: 60px;
+    object-fit: cover;
+}

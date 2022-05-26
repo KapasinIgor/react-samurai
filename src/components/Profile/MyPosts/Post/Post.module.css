@@ -1,0 +1,22 @@
+.item {
+    background-color: darkseagreen;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 5px;
+    display: flex;
+}
+.item_ava {
+    border-radius: 20%;
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+}
+.item_like {
+
+}
+.item_like:hover {
+    cursor: pointer;
+}
+.item_like:active {
+    color: orangered;
+}
