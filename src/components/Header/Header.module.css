@@ -2,7 +2,7 @@
     grid-area: header;
     background-color: darkseagreen;
 }
-.header_logo {
+.header__logo {
     height: 60px;
     object-fit: cover;
 }

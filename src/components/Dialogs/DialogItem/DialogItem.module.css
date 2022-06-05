@@ -1,0 +1,7 @@
+
+.dialogs__item {
+    padding: 5px 0;
+}
+.dialogs__itemActive {
+    color: gold;
+}

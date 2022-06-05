@@ -1,12 +1,17 @@
 .nav {
     grid-area: nav;
-    background-color: bisque;
+    background-color: darkgray;
+    padding: 15px;
 }
 
-.nav_items {
-    padding: 5px;
+.nav__link {
+    text-decoration: none;
 }
-.nav_items:hover {
+.nav__linkActive {
+    color: gold;
+    text-decoration: none;
+}
+.nav__items:hover {
     cursor: pointer;
     background-color: #edeef0;
 }
